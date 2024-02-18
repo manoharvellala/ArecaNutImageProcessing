@@ -86,7 +86,5 @@ image3.png
 
 Presentation Video
 
-[ ]
-from IPython.display import YouTubeVideo
-YouTubeVideo('2ttoSlpWDsY')
+!https://www.youtube.com/watch?v=2ttoSlpWDsY&t=229s
 
