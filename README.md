@@ -1,5 +1,7 @@
 # ArecaNutImageProcessing
 Developed an image processing system capable of automatically detecting and classifying arecanut as healthy or diseased. The system aims to minimize labor costs and time spent on manual inspection, thereby improving the income of farmers involved in arecanut cultivation.
+
+Collab Link Here: !https://colab.research.google.com/drive/1Wc83uTR0_XVFRQi9yp7Pr38_peDEFLZ1?usp=sharing
 1) The target audience for the project (who the users are)?
 
 The target audience comprises millions of people in Asian countries, including India, Myanmar, Bangladesh, Sri Lanka, and others, who use the product or service in their daily lives."
