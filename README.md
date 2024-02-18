@@ -74,6 +74,6 @@ Additionally, it's mentioned that a graphical user interface (GUI) has been buil
 
 In summary, the project has progressed well, with most of the processing steps implemented, and it seems to be in its final stages with only the classification step remaining. The combination of image acquisition, preprocessing, segmentation, feature extraction, and the development of a GUI demonstrates a comprehensive approach to image processing.
 
+[![ArecaNut](https://img.youtube.com/vi/YourYouTubeVideoID/0.jpg)](https://www.youtube.com/watch?v=YourYouTubeVideoID)
 
-(https://www.youtube.com/watch?v=2ttoSlpWDsY&t=229s.jpg)](YoutubeLink)
 
