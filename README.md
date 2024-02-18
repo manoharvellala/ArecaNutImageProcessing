@@ -75,5 +75,5 @@ Additionally, it's mentioned that a graphical user interface (GUI) has been buil
 In summary, the project has progressed well, with most of the processing steps implemented, and it seems to be in its final stages with only the classification step remaining. The combination of image acquisition, preprocessing, segmentation, feature extraction, and the development of a GUI demonstrates a comprehensive approach to image processing.
 
 
-[!(https://www.youtube.com/watch?v=2ttoSlpWDsY&t=229s.jpg)](https://www.youtube.com/watch?v=2ttoSlpWDsY)
+(https://www.youtube.com/watch?v=2ttoSlpWDsY&t=229s.jpg)](YoutubeLink)
 
