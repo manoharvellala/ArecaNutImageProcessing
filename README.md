@@ -74,17 +74,6 @@ Additionally, it's mentioned that a graphical user interface (GUI) has been buil
 
 In summary, the project has progressed well, with most of the processing steps implemented, and it seems to be in its final stages with only the classification step remaining. The combination of image acquisition, preprocessing, segmentation, feature extraction, and the development of a GUI demonstrates a comprehensive approach to image processing.
 
-9)What is left to do?
-
-Final Classification of the Image as diseased or healthy.
-
-Screenshot 2023-11-17 at 4.14.04 PM.png
-
-image2.png
-
-image3.png
-
-Presentation Video
 
 !https://www.youtube.com/watch?v=2ttoSlpWDsY&t=229s
 
